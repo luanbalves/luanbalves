@@ -1,2 +1,2 @@
-<img src="https://github.com/luanbalves/luanbalves/assets/88348475/d8ba9b1c-8ee7-4745-86cf-c22330ac6096" alt="Profile" width="100%" height="435">
-<img src="https://github.com/luanbalves/luanbalves/assets/88348475/fb64a863-a9a3-4717-8282-06c4b42f20ba" alt="Profile" width="100%" height="435">
+<img src="https://github.com/luanbalves/luanbalves/assets/88348475/ec74beb9-0886-44f2-9f32-cb9507dc5973" alt="Profile" width="100%" height="437">
+<img src="https://github.com/luanbalves/luanbalves/assets/88348475/173626ed-8b58-4b91-ab42-63f088e2f8c3" alt="Profile" width="100%" height="437">
